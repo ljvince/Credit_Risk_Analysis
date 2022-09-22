@@ -108,7 +108,7 @@ The top feature by importance was "total_rec_prncp" at 7.9% of the total.
 
 
 
-#### 6.EasyEnsembleClassifier Model
+## 6.EasyEnsembleClassifier Model
 #### a set of classifiers where individual decisions are combined to classify new examples.
 
 #### The balanced accuracy score increased to 93.2% with this model.
